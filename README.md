@@ -4,27 +4,22 @@ Soy **Ingeniero Civil** y actualmente me desempeño como **Supervisor Técnico**
 
 ---
 
-### 🚀 En qué estoy trabajando actualmente
 Actualmente, estoy trabajando como **Supervisor Técnico**, asegurando la calidad y cumplimiento de obras civiles en el sector de la construcción.
 
 ---
 
-### 📚 Qué estoy estudiando o aprendiendo
 Estoy cursando un **Máster en Desarrollo Blockchain**, y me he enfocado en el aprendizaje de lenguajes de programación como **Python**, **Solidity** y otros relacionados con tecnologías descentralizadas.
 
 ---
 
-### 🤝 I'm looking to collaborate on...
 Estoy interesado en colaborar en **proyectos de desarrollo blockchain**, especialmente aquellos enfocados en **contratos inteligentes, soluciones DeFi, Web3 y trazabilidad de datos**. También me interesa participar en proyectos que combinen **tecnología y sostenibilidad**.
 
 ---
 
-### ❓ I'm looking for help with...
 Estoy abierto a recibir ayuda en temas relacionados con **arquitectura de contratos inteligentes**, **integración de APIs Web3**, y buenas prácticas en **estructuración de proyectos colaborativos con Git**.
 
 ---
 
-### 📫 How to reach me
 Puedes contactarme a través de mi correo: **sebasduarte1214uran@gmail.com**
 
 ---

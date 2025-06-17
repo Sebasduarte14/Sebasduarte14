@@ -4,10 +4,6 @@ Soy **Ingeniero Civil**. Me apasiona la tecnología y me encuentro en constante 
 
 ---
 
-Actualmente, estoy trabajando como **Supervisor Técnico**, asegurando la calidad y cumplimiento de obras civiles en el sector de la construcción.
-
----
-
 Estoy cursando un **Máster en Desarrollo Blockchain**, y me he enfocado en el aprendizaje de lenguajes de programación como **Python**, **Solidity** y otros relacionados con tecnologías descentralizadas.
 
 ---

@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy Sebastián Duarte
 
-Soy **Ingeniero Civil** y actualmente me desempeño como **Supervisor Técnico** en proyectos de infraestructura. Me apasiona la tecnología y me encuentro en constante evolución profesional.
+Soy **Ingeniero Civil**. Me apasiona la tecnología y me encuentro en constante evolución profesional.
 
 ---
 
